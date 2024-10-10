@@ -1,4 +1,4 @@
-## Hi there 👋, I am Tamosree!
+## Hi 👋, I am Tamosree!
 
 <!--
 **tamosree7/tamosree7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
