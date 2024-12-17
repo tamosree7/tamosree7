@@ -1,13 +1,11 @@
 ## Hi 👋, I am Tamosree!
 #### Welcome to my GitHub profile! I am a passionate bioinformatics enthusiast, with a master's degree, in Biotechnology and Genetic Engineering.
 - 🌱 I’m currently learning Machine Learning.
-### 📫 Let's Connect:
-- 📧 Email: [tamosreedas@gmail.com]
-- 💼 [LinkedIn](https://www.linkedin.com/in/tamosreesikder/#:~:text=www.linkedin.com/in/tamosreesikder)
+
 ### 🛠️ Skills & Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ### 📫 Let's Connect:
 - 📧 Email: [tamosreedas@gmail.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/tamosreesikder/#:~:text=www.linkedin.com/in/tamosreesikder)
