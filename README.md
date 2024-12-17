@@ -5,8 +5,28 @@
 - 📧 Email: [tamosreedas@gmail.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/tamosreesikder/#:~:text=www.linkedin.com/in/tamosreesikder)
 ### 🛠️ Skills & Tools:
-**Languages:**
-- Python 🐍 | R 📊 | Bash 🖥️
+```bash
+# Languages
+- Python 🐍
+- R 📊
+- Bash 🖥️
+# Tools & Platforms
+- Conda
+- RStudio
+- Jupyter Notebook
+- ShinyGO
+- PANTHER
+- GOrilla
+- Git
+- GitHub
+- VS Code
+
+# Data Analysis
+- RNA-seq Analysis
+- scRNA-seq Analysis
+- Methylation Analysis
+- Machine Learning for Biological Data
+```
 <!--
 **tamosree7/tamosree7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
