@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Machine Learning.
 ### 📫 Let's Connect:
 - 📧 Email: [tamosreedas@gmail.com]
-- 💼 [LinkedIn](www.linkedin.com/in/tamosreesikder)
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/tamosreesikder/#:~:text=www.linkedin.com/in/tamosreesikder)
 
 <!--
 **tamosree7/tamosree7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
