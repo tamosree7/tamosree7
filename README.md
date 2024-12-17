@@ -1,7 +1,9 @@
 ## Hi 👋, I am Tamosree!
-#### I am a passionate bioinformatics enthusiast, with a master's degree, in Biotechnology and Genetic Engineering.
+#### Welcome to my GitHub profile! I am a passionate bioinformatics enthusiast, with a master's degree, in Biotechnology and Genetic Engineering.
 - 🌱 I’m currently learning Machine Learning.
-## Let's Connect!
+### 📫 Let's Connect:
+- 📧 Email: [tamosreedas@gmail.com]
+- 💼 [LinkedIn](www.linkedin.com/in/tamosreesikder)
 
 
 <!--
