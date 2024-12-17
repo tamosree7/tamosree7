@@ -3,9 +3,16 @@
 - 🌱 I’m currently learning Machine Learning.
 
 ### 🛠️ Skills & Tools:
--![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
--![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
--![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+
+
+
+
+
 ### 📫 Let's Connect:
 - 📧 Email: [tamosreedas@gmail.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/tamosreesikder/#:~:text=www.linkedin.com/in/tamosreesikder)
