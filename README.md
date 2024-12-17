@@ -1,5 +1,5 @@
 ## Hi 👋, I am Tamosree!
-
+### I am a passionate bioinformatics enthusiast, with a master's degree, in Biotechnology and Genetic Engineering.
 <!--
 **tamosree7/tamosree7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
