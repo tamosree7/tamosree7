@@ -4,7 +4,9 @@
 ### 📫 Let's Connect:
 - 📧 Email: [tamosreedas@gmail.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/tamosreesikder/#:~:text=www.linkedin.com/in/tamosreesikder)
-
+### 🛠️ Skills & Tools:
+**Languages:**
+- Python 🐍 | R 📊 | Bash 🖥️
 <!--
 **tamosree7/tamosree7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
