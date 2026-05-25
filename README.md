@@ -30,10 +30,43 @@
 ![PyMOL](https://img.shields.io/badge/PyMOL-%23FF0000.svg?style=for-the-badge&logo=pymol&logoColor=white)
 
 
-### 🛠️ Skills & Tools:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)\
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)\
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+## 🧬 Bioinformatics Tools:
+
+**Sequence Alignment & QC:**  
+![BWA](https://img.shields.io/badge/BWA-%23007ACC.svg?style=for-the-badge&logo=bwa&logoColor=white)
+![STAR](https://img.shields.io/badge/STAR-%23FFD700.svg?style=for-the-badge&logo=star&logoColor=black)
+![FastQC](https://img.shields.io/badge/FastQC-%2344A833.svg?style=for-the-badge&logo=fastqc&logoColor=white)
+![Trimmomatic](https://img.shields.io/badge/Trimmomatic-%23FF6347.svg?style=for-the-badge&logo=trimmomatic&logoColor=white)
+![SAMtools](https://img.shields.io/badge/SAMtools-%231C8C8C.svg?style=for-the-badge&logo=samtools&logoColor=white)
+
+**Variant Calling & Annotation:**  
+![GATK](https://img.shields.io/badge/GATK-%234d8eff.svg?style=for-the-badge&logo=gatk&logoColor=white)
+![BLAST](https://img.shields.io/badge/BLAST-%231E90FF.svg?style=for-the-badge&logo=blast&logoColor=white)
+![SIFT](https://img.shields.io/badge/SIFT-%236A5ACD.svg?style=for-the-badge&logo=sift&logoColor=white)
+![PROVEAN](https://img.shields.io/badge/PROVEAN-%23EE82EE.svg?style=for-the-badge&logo=provean&logoColor=white)
+![I-Mutant3.0](https://img.shields.io/badge/I--Mutant3.0-%23FF8C00.svg?style=for-the-badge&logo=imutant&logoColor=white)
+![MUpro](https://img.shields.io/badge/MUpro-%23DC143C.svg?style=for-the-badge&logo=mupro&logoColor=white)
+![ConSurf](https://img.shields.io/badge/ConSurf-%2300CED1.svg?style=for-the-badge&logo=consurf&logoColor=white)
+![STRING](https://img.shields.io/badge/STRING-%2332CD32.svg?style=for-the-badge&logo=string&logoColor=white)
+
+**RNA-seq & Differential Expression:**  
+![featureCounts](https://img.shields.io/badge/featureCounts-%23FF6F00.svg?style=for-the-badge&logo=featurecounts&logoColor=white)
+![DESeq2](https://img.shields.io/badge/DESeq2-%230075A8.svg?style=for-the-badge&logo=deseq2&logoColor=white)
+![GOseq](https://img.shields.io/badge/GOseq-%23009688.svg?style=for-the-badge&logo=goseq&logoColor=white)
+![DAVID](https://img.shields.io/badge/DAVID-%237B1FA2.svg?style=for-the-badge&logo=david&logoColor=white)
+![ShinyGO](https://img.shields.io/badge/ShinyGO-%23E91E63.svg?style=for-the-badge&logo=shinygo&logoColor=white)
+
+**Single-Cell & Metagenomics:**  
+![Seurat](https://img.shields.io/badge/Seurat-%232196F3.svg?style=for-the-badge&logo=seurat&logoColor=white)
+![PICRUSt2](https://img.shields.io/badge/PICRUSt2-%234CAF50.svg?style=for-the-badge&logo=picrust2&logoColor=white)
+
+**Biological Databases:**  
+![NCBI](https://img.shields.io/badge/NCBI-%23336699.svg?style=for-the-badge&logo=ncbi&logoColor=white)
+![Ensembl](https://img.shields.io/badge/Ensembl-%23E60026.svg?style=for-the-badge&logo=ensembl&logoColor=white)
+![PDB](https://img.shields.io/badge/PDB-%231BA39C.svg?style=for-the-badge&logo=pdb&logoColor=white)
+![UCSC](https://img.shields.io/badge/UCSC-%23003366.svg?style=for-the-badge&logo=ucsc&logoColor=white)
+![EMBL](https://img.shields.io/badge/EMBL-%23004990.svg?style=for-the-badge&logo=embl&logoColor=white)
+![TCGA](https://img.shields.io/badge/TCGA-%23005A9C.svg?style=for-the-badge&logo=tcga&logoColor=white)
 
 
 ### 📫 Let's Connect:
