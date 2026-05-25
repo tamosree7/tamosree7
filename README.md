@@ -68,6 +68,12 @@
 ![EMBL](https://img.shields.io/badge/EMBL-%23004990.svg?style=for-the-badge&logo=embl&logoColor=white)
 ![TCGA](https://img.shields.io/badge/TCGA-%23005A9C.svg?style=for-the-badge&logo=tcga&logoColor=white)
 
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=tamosree7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=tamosree7&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamosree7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### 📫 Let's Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/tamosreesikder/#:~:text=www.linkedin.com/in/tamosreesikder)
