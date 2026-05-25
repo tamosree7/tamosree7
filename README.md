@@ -1,6 +1,14 @@
 ## Hi 👋, I am Tamosree!
 #### Welcome to my GitHub profile! I am a passionate bioinformatics enthusiast, with a master's degree, in Biotechnology and Genetic Engineering.
 - 🌱 I’m currently learning Machine Learning.
+# 🚀 Tech Stack
+
+## 🧠 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,r,bash,linux,git" />
+</p>
+
 
 ### 🛠️ Skills & Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)\
