@@ -2,6 +2,10 @@
 #### Welcome to my GitHub profile! I am a passionate bioinformatics enthusiast, with a master's degree, in Biotechnology and Genetic Engineering.
 - 🌱 I’m currently learning Machine Learning.
 
+### 📫 Let's Connect:
+- 💼 [LinkedIn](https://www.linkedin.com/in/tamosreesikder/#:~:text=www.linkedin.com/in/tamosreesikder)
+<!--
+
 # 💻 Tech Stack:
 
 **Programming Languages:**  
