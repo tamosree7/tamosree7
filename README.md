@@ -1,6 +1,6 @@
 ## Hi 👋, I am Tamosree!
 ### Welcome to my GitHub profile!
-# 💫 About Me:
+## 💫 About Me:
 
 - 🎓 Master of Science in Biotechnology and Genetic Engineering and B.Sc. in Zoology. 
 - 🧬 Dedicated bioinformatics professional with a strong foundation in molecular biology, genomics, transcriptomics, and metagenomics.
@@ -15,7 +15,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/tamosreesikder/#:~:text=www.linkedin.com/in/tamosreesikder)
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 **Programming Languages:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -81,7 +81,7 @@
 ![EMBL](https://img.shields.io/badge/EMBL-%23004990.svg?style=for-the-badge&logo=embl&logoColor=white)
 ![TCGA](https://img.shields.io/badge/TCGA-%23005A9C.svg?style=for-the-badge&logo=tcga&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=tamosree7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tamosree7&theme=dark&hide_border=false)  
