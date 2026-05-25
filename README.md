@@ -1,6 +1,15 @@
 ## Hi 👋, I am Tamosree!
-#### Welcome to my GitHub profile! I am a passionate bioinformatics enthusiast, with a master's degree, in Biotechnology and Genetic Engineering.
+### Welcome to my GitHub profile!
+# 💫 About Me:
 
+- 🎓 Master of Science in Biotechnology and Genetic Engineering and B.Sc. in Zoology. 
+- 🧬 Dedicated bioinformatics professional with a strong foundation in molecular biology, genomics, transcriptomics, and metagenomics.
+- 🔬 Experienced in applying machine learning and data science techniques to analyze complex biological datasets, with a focus on sequencing data analysis (RNA-seq, ScRNA-seq, metagenomics, and genomic data).
+- 📄 Published researcher — co-authored a study on SNP consequences in the NPM1 gene associated with Acute Myeloid Leukemia, published in *Journal of Bio-X Research* (2025). [DOI](https://doi.org/10.34133/jbioxresearch.0038)
+- 🤝 Open to collaborating on innovative bioinformatics, cancer genomics, transcriptomics, and machine learning projects.
+- 🌐 All of my projects are available [here](https://github.com/tamosree7?tab=repositories).
+
+---
 
 ### 📫 Let's Connect:
 - 💼 [LinkedIn](https://www.linkedin.com/in/tamosreesikder/#:~:text=www.linkedin.com/in/tamosreesikder)
