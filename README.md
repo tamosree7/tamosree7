@@ -79,8 +79,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamosree7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 📫 Let's Connect:
-- 💼 [LinkedIn](https://www.linkedin.com/in/tamosreesikder/#:~:text=www.linkedin.com/in/tamosreesikder)
+
 <!--
 **tamosree7/tamosree7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
